@@ -1,7 +1,7 @@
 //使用AMD规范
 define(['Player','Enemy'],function(Player,Enemy) {
 	
-	console.log('嘿嘿嘿11111');
+	console.log('嘻嘻嘻');
 	
 
 	//导演
