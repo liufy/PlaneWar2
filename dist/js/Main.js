@@ -1,0 +1,1 @@
+require.config({paths:{Spirit:"Father/Spirit"}}),require(["jquery","GameDirector"],function(i,e){i(".list li ").on({click:function(){new e(i(this).index()+1).startGame()}})});
