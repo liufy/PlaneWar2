@@ -2,6 +2,7 @@
 define(['Player','Enemy'],function(Player,Enemy) {
 	
 	console.log('嘻嘻嘻');
+	console.log('嘻嘻嘻231231');
 	
 
 	//导演
